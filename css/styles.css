@@ -1,0 +1,10 @@
+body{
+    height: 97vh;
+    display: flex;
+    align-items: center;
+}
+.playground{
+    box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
+    margin: auto;
+    background-color: blue;
+}
